@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "930736089793",
+    "firebase_url": "https://bookitbooks-19058-default-rtdb.firebaseio.com",
+    "project_id": "bookitbooks-19058",
+    "storage_bucket": "bookitbooks-19058.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930736089793:android:70751f464f6f34e0a04240",
+        "android_client_info": {
+          "package_name": "com.example.bookIt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjpQSfoZjkb9_Uvoa104NW2VZ3QCYZNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930736089793:android:0bf6ac12cd370251a04240",
+        "android_client_info": {
+          "package_name": "com.example.startbucksapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGjpQSfoZjkb9_Uvoa104NW2VZ3QCYZNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
